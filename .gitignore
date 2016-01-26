@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<sections>
+		<section title="Issues Requisitos-V6_P1">
+			<issue code="TSB-241" title="[RQ]-UC022 - Manter Pessoa Física" description="" />
+			<issue code="TSB-242" title="[RQ]-UC005 - Manter Subatividade" description="" />
+		</section>
+		<section title="Issues Codificação-V6_P1">
+			<issue code="TSB-256" title="[Codificação]-UC022 - Manter Pessoa Física" description="" />
+			<issue code="TSB-257" title="[Codificação]-UC005 - Manter Subatividade" description="" />
+		</section>
+		<section title="Issues Improdutivas">
+			<issue code="SAYAG-2" title="[Training]" description="Lançar quando houver treinamentos não inerentes ao projeto" />
+			<issue code="SAYAG-2" title="[Medical Visit]" description="Lançar no caso de atestado medico" />
+		</section>
+	</sections>
+	<help>
+		<![CDATA[
+			<h5>Segue um exemplo na utilização de sub-task da issue:</h5>
+	
+			<ul>
+				<li>Aqui pode ser inserida algum informe conforme necessario.</li>
+		]]>
+	</help>
+</root>
